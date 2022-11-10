@@ -1,0 +1,2 @@
+module VariableProject {
+}
