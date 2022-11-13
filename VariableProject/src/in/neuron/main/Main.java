@@ -25,7 +25,9 @@ package in.neuron.main;
 		int a=10;
 		a+=20;
 		a-=20;
-		
+
+		String s1="Drishti";
+		System.out.println(s1.toLowerCase());
 
 	}
 }
